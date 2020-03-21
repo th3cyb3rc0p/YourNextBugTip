@@ -1,5 +1,5 @@
 [tweet](https://twitter.com/aisecureme/status/1238061828229353473) By [AISECUREME](https://twitter.com/aisecureme)
-
+![SSRF](/images/ssrf.png)
 
 [tweet](https://twitter.com/aisecureme/status/1238853314193682432) By [AISECUREME](https://twitter.com/aisecureme)
 >* http://[::]:80/
