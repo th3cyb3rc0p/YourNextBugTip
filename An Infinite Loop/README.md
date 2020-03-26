@@ -10,6 +10,6 @@ Leads mass DDOS on servers, An attacker can make application consume all avaliab
 -[3Xpl0!T_D3V!L](https://dxploiter.blogspot.com/2017/07/sony-infinite-loop-vulnerability-leads.html)
 
 ### Refrences
-- *[An Infinite Loop Story](https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88) by [D0rkerDevil](https://twitter.com/D0rkerDevil)*
-- *[SONY INFINITE LOOP VULNERABILITY LEADS TO DOS](https://dxploiter.blogspot.com/2017/07/sony-infinite-loop-vulnerability-leads.html) by [3Xpl0!T_D3V!L](https://dxploiter.blogspot.com)*
+- *[An Infinite Loop Story](https://medium.com/@D0rkerDevil/a-infinite-loop-story-f2bc05771a88) by [D0rkerDevil](https://twitter.com/D0rkerDevil)* [2018]
+- *[SONY INFINITE LOOP VULNERABILITY LEADS TO DOS](https://dxploiter.blogspot.com/2017/07/sony-infinite-loop-vulnerability-leads.html) by [3Xpl0!T_D3V!L](https://dxploiter.blogspot.com)* [2017]
 
