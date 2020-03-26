@@ -1,4 +1,3 @@
-# Open Redirect
 ## An Infinite Loop (CWE-835)
 CWE - This weakness describes a case when a loop cannot reach an exit condition.
 *An infinite loop will cause unexpected consumption of resources, such as CPU cycles or memory. The software’s operation may slow down, or cause a long time to respond.*
