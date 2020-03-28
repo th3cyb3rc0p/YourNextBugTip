@@ -1,7 +1,7 @@
 # Shodan Recon (THE ULTRA INSTINCT BBH MODE)
-
+GOKU got ULTRA INSTINCT because of learning and practicing, he is not legendary Super Saiyan. Right?
+Goku has to go through from lots of fighting, struggle and powerful enemies
 ### Basic Recon Commands
-
 Command         | Purpose
 ----------------|-----------------------------------
 port            | Search by specific port
