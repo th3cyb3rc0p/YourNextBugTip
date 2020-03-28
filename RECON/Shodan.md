@@ -1,4 +1,4 @@
-# Shodan Recon (THE ULTRA INSTINCT BBH MODE)
+# Shodan Recon (THE DRAGON RADAR)
 
 ### Basic Recon Commands
 Command         | Purpose
