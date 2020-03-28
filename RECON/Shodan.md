@@ -1,4 +1,4 @@
-# Shodan Recon (THE ULTRA INSTINCT BUG BOUNTY MODE)
+# Shodan Recon (THE ULTRA INSTINCT BBH MODE)
 
 ### Basic Recon Commands
 
