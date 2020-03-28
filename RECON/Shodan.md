@@ -1,4 +1,5 @@
-## Shodan Recon
+# Shodan Recon (THE ULTRA INSTINCT BUG BOUNTY MODE)
+
 ### Basic Recon Commands
 
 Command         | Purpose
@@ -21,7 +22,7 @@ ssL             | Search in ssl certificate
 1. Use Academic Email (Infinite Search + more) *[tweet by @Shodan](https://twitter.com/shodanhq/status/1036715482664054785)*
 2. Understanding Mindset for using shodan is IMPORTANT  
 MUST READ *[Using Shodan Better Way! :)](https://medium.com/bugbountywriteup/using-shodan-better-way-b40f330e45f6) by [Rudra Pratap](https://twitter.com/0xrudrapratap)*
-3. Using Shodan's Extention, which will show open ports of every site you visit
+3. Use Shodan's Extention, which will show open ports of every site you visit
 
 ### How POWERFUL is Shodan?
 Read these articles
