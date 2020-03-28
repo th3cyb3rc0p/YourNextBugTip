@@ -1,4 +1,4 @@
-#Bypasses
+# Bypasses
 ## Rate Limit Bypass
 
 *[Tweet](https://twitter.com/ome_mishra/status/1241664059650404352) By [Ome Mishra](https://twitter.com/ome_mishra)*
@@ -21,3 +21,14 @@ X-Forwared-Host: IP
 
 If bypass successful, & after a while blocking request again. Increment the last octate
 ```
+
+## Bypass Checks
+*[Report #792895](https://hackerone.com/reports/792895) by [Green catz (hoangn1441)](https://hackerone.com/hoangn1441)*
+- This trick can works for all kind of checks Old Password Check, Email Check, CSRF Token Check etc. :fire:
+
+1. Change `parameter=value` to `parameter[]=value`
+2. Bypass Successful
+
+---------------------------------------------------------------------------------
+
+
