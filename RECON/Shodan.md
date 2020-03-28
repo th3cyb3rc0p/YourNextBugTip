@@ -2,6 +2,9 @@
 GOKU got ULTRA INSTINCT because of learning and practicing, he is not legendary Super Saiyan. Right?  
 He went through lots of struggle while fighting with powerful enemies. Enemies who found GOKU and enter in his's life.
 
+Now lets consider **You are GOKU and Enemies are BUGS**, but here scenario is little bit different  
+*BUGS aren't going to found you, you have to found THE BUGS*
+
 
 ### Basic Recon Commands
 Command         | Purpose
