@@ -12,7 +12,8 @@ You have to use headers according to server and services
 - if or if not there is a protection or a cloud
 
 basically we want the ones which "ACCEPT ADDRESS"
-``` X-FORWARDED-FOR
+``` 
+X-FORWARDED-FOR
 X-CLUSTER-CLIENT-IP
 X-CLIENT-IP
 X-FORWARDED-SERVER
