@@ -52,8 +52,7 @@ X-Remote-Addr: 127.0.0.1
 or
 Try with X-Forwarded-For: IP Header 2x times Instead of One time. (Tip from Kiraak Boy)
 ```
- - Using null byte and CRLF (a tip from Zseano)
- %00, %0d%0a, %09, %0C, %20, %0
+ - Using null byte and CRLF (a tip from [Zseano](https://twitter.com/zseano)) %00, %0d%0a, %09, %0C, %20, %0
  - Changing user-agents, cookies and IP address
 
 ---------------------------------------------------------------------------------
