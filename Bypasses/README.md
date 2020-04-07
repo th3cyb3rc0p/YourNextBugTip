@@ -22,6 +22,14 @@ X-Forwared-Host: IP
 If bypass successful, & after a while blocking request again. Increment the last octate
 ```
 
+*[Tweet](https://twitter.com/harrmahar/status/1247306384128872448?s=20) By [Harrmahar](https://twitter.com/harrmahar/)*
+```
+Wanna Bypass Rate Limit ?
+Try Bypass with adding null payload %00, %0d%0a, %09, %0C, %20, %0 on email. 
+Not Works ?
+Just try adding "blank space" on the email, works!
+```
+
 ## Bypass Checks
 *[Report #792895](https://hackerone.com/reports/792895) by [Green catz (hoangn1441)](https://hackerone.com/hoangn1441)*
 - This trick can works for all kind of checks Old Password Check, Email Check, CSRF Token Check etc. :fire:
@@ -30,5 +38,22 @@ If bypass successful, & after a while blocking request again. Increment the last
 2. Bypass Successful
 
 ---------------------------------------------------------------------------------
+
+## Writeups
+>### *[Methods to Bypass Rate Limit](https://medium.com/@huzaifa_tahir/methods-to-bypass-rate-limit-5185e6c67ecd) by [Huzaifa Tahir](https://medium.com/@huzaifa_tahir)* 
+>#### Places to find Rate Limit 
+>Login, Reset Password, 2FA, Sign up, Sending messages, Forums, comments, etc.
+>##### Bypassing WAF
+> ```
+>X-Originating-IP: 127.0.0.1
+>X-Forwarded-For: 127.0.0.1
+>X-Remote-IP: 127.0.0.1
+>X-Remote-Addr: 127.0.0.1
+>or
+>Try with X-Forwarded-For: IP Header 2x times Instead of One time. (Tip from Kiraak Boy)
+>```
+> - Using null byte and CRLF (a tip from Zseano)
+> %00, %0d%0a, %09, %0C, %20, %0
+> - Changing user-agents, cookies and IP address
 
 
