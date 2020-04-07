@@ -40,20 +40,20 @@ Just try adding "blank space" on the email, works!
 ---------------------------------------------------------------------------------
 
 ## Writeups
->### *[Methods to Bypass Rate Limit](https://medium.com/@huzaifa_tahir/methods-to-bypass-rate-limit-5185e6c67ecd) by [Huzaifa Tahir](https://medium.com/@huzaifa_tahir)* 
->#### Places to find Rate Limit 
->Login, Reset Password, 2FA, Sign up, Sending messages, Forums, comments, etc.
->##### Bypassing WAF
-> ```
->X-Originating-IP: 127.0.0.1
->X-Forwarded-For: 127.0.0.1
->X-Remote-IP: 127.0.0.1
->X-Remote-Addr: 127.0.0.1
->or
->Try with X-Forwarded-For: IP Header 2x times Instead of One time. (Tip from Kiraak Boy)
->```
-> - Using null byte and CRLF (a tip from Zseano)
-> %00, %0d%0a, %09, %0C, %20, %0
-> - Changing user-agents, cookies and IP address
+### *[Methods to Bypass Rate Limit](https://medium.com/@huzaifa_tahir/methods-to-bypass-rate-limit-5185e6c67ecd) by [Huzaifa Tahir](https://medium.com/@huzaifa_tahir)* 
+#### Places to find Rate Limit 
+Login, Reset Password, 2FA, Sign up, Sending messages, Forums, comments, etc.
+##### Bypassing WAF
+ ```
+X-Originating-IP: 127.0.0.1
+X-Forwarded-For: 127.0.0.1
+X-Remote-IP: 127.0.0.1
+X-Remote-Addr: 127.0.0.1
+or
+Try with X-Forwarded-For: IP Header 2x times Instead of One time. (Tip from Kiraak Boy)
+```
+ - Using null byte and CRLF (a tip from Zseano)
+ %00, %0d%0a, %09, %0C, %20, %0
+ - Changing user-agents, cookies and IP address
 
-
+---------------------------------------------------------------------------------
