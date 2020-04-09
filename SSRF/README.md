@@ -29,8 +29,16 @@ http://3232235521/
 http://3232235777/
 ```
 
-------------------------------------------------------------------------------------
 *[Report #736867](https://hackerone.com/reports/736867) by [foobar7](https://twitter.com/foobar0x7)*  
 ```
 http://[0:0:0:0:0:ffff:127.0.0.1]/thefile
 ```
+---------------------------------------------------------------------------------------
+## SSRF to RCE
+
+*[tweet](https://twitter.com/intigriti/status/1248222721399500801?s=20) By [Intigriti](https://twitter.com/intigriti/),*
+*Tip by Shoeb Patel([0xCaptainFreak](https://twitter.com/0xCaptainFreak))*
+
+<img src="Images/intigriti_ssrf.png" width="500">
+
+
