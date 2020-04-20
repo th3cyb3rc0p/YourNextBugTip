@@ -3,6 +3,7 @@
 # YourNextBugTip
 Twitter have lots of GENIUS PEOPLE, who are sharing awesome Tips and Tricks.
 This repository is collection of those tips and tricks.
+https://twitter.com/YourNextBugTip
 
 **Feel free to collaborate and share your Awesome Tips and Tricks** either by *Pull Request* or use *[#YourNextBugTip](https://twitter.com/search?q=%23YourNextBugTip&src=hashtag_click)* in your tweet
 
